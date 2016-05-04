@@ -1,3 +1,4 @@
+#Find the sum of all the multiples of 3 or 5 below N.
 t=eval(raw_input())
 for k in range(t):
 	n=eval(raw_input())
