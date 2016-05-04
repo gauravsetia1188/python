@@ -1,3 +1,4 @@
+#sum of all even fibonacci numbers below n
 t=eval(raw_input())
 for k in range(t):
 	n=eval(raw_input())
